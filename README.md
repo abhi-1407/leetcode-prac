@@ -86,8 +86,8 @@ I’m a Backend Software Engineer passionate about building scalable systems and
 
 If you’d like to discuss software engineering, backend development, distributed systems, or interview preparation, feel free to connect!
 
-* GitHub: https://github.com/abhi-1407
-* LinkedIn: (https://www.linkedin.com/in/abhilash-jena-576a4a207/
+- 💼 **LinkedIn:** [Abhilash Jena](https://www.linkedin.com/in/abhilash-jena-576a4a207/)
+- 💻 **GitHub:** [abhi-1407](https://github.com/abhi-1407)
 
 ⸻
 
